@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @Kukushaa
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning C++, Python.
+👋Hi dear!
+
+👨‍🎓Computer Science student
+
+🐍Python
+
+🔵C++
