@@ -1,4 +1,7 @@
 👋Hi dear!
-👨‍🎓Computer Science student
+
+🎓Computer Science student
+
 🐍Python
+
 🔵C++
