@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kukushaa</h1>
-![Design and Development](https://i.ibb.co/pQBcmRk/Back.png)
 <h3 align="center">A Software Engineer from Georgia</h3>
 
 - 🌱 I’m currently learning **C++ and Front+Back end**
