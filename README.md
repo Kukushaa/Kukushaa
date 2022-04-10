@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kukushaa</h1>
-![Back](https://user-images.githubusercontent.com/95010815/162636688-949aa4de-845d-4773-ae74-82030122a906.png)
+<h3 align="center">SoftWare Engineer From Georgia</h3>
 
 - 🌱 I’m currently learning **C++ and Front+Back end**
 
