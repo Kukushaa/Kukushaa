@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Front+Back end**
 
-- 📫 How to reach me **nika.beridze81@mail.ru**
+- 📫 How to reach me **rexoman65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
