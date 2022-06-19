@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kukushaa</h1>
-<h3 align="center">SoftWare Engineer From Georgia</h3>
 
 ![Back](https://user-images.githubusercontent.com/95010815/166120946-ede7d8d0-6657-4ff5-8eb4-e55a59f265f1.png) <br>
 
